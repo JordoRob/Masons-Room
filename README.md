@@ -18,6 +18,7 @@ Description: Our website will be a Forum Discussion website similar to message b
 - Profile Picture
 - Browse Categories/Posts
 - See other Users profiles/posts
+- Like/Dislike users posts
 
 # Admin Capabilities:
 - Delete posts/comments
@@ -25,11 +26,22 @@ Description: Our website will be a Forum Discussion website similar to message b
 - Move posts
 - Ban accounts
 
-#Images
-![alt text](http://url/to/img.png "Home Screen")
+# Images
 
-![alt text](http://url/to/img.png "Home Screen")
+Home Screen
+![Home Screen](Readme\homeScreen.png "Home Screen")
 
-![alt text](http://url/to/img.png "Home Screen")
+Login Screen
+![Login Screen](Readme\loginPage.png "Login Screen")
 
-![alt text](http://url/to/img.png "Home Screen")
+Post Screen
+![Post Screen](Readme\PostPage.png "Forum Screen")
+
+New Post
+![New Post](Readme\newPost.png "New Post Screen")
+
+User Account Screen
+![User Account](Readme\Userpage.png "Account Screen")
+
+Admin Portal
+![Admin Portal](Readme\adminPortal.png "Admin Portal")
