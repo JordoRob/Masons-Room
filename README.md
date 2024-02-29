@@ -29,19 +29,19 @@ Description: Our website will be a Forum Discussion website similar to message b
 # Images
 
 Home Screen
-![Home Screen](Readme\homeScreen.png "Home Screen")
+![Home Screen](./Readme/homeScreen.png "Home Screen")
 
 Login Screen
-![Login Screen](Readme\loginPage.png "Login Screen")
+![Login Screen](./Readme/loginPage.png "Login Screen")
 
 Post Screen
-![Post Screen](Readme\PostPage.png "Forum Screen")
+![Post Screen](./Readme/PostPage.png "Forum Screen")
 
 New Post
-![New Post](Readme\newPost.png "New Post Screen")
+![New Post](./Readme/newPost.png "New Post Screen")
 
 User Account Screen
-![User Account](Readme\Userpage.png "Account Screen")
+![User Account](./Readme/Userpage.png "Account Screen")
 
 Admin Portal
-![Admin Portal](Readme\adminPortal.png "Admin Portal")
+![Admin Portal](./Readme/adminPortal.png "Admin Portal")
